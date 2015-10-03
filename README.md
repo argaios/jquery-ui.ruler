@@ -1,7 +1,7 @@
 jQueryUI.Ruler
 ============
 
-jQueryUI.Ruler is a jQuery-UI plugin that adds a photoshop-like rules to a DOM element.
+jQueryUI.Ruler is a jQuery-UI plugin that adds a photoshop-like rules to a DOM element. This is forked version of jueryUi.Ruler. MM, CM width problem is solved in this release.
 
 ## Features
 - Multiple units (px, mm, cm, in)

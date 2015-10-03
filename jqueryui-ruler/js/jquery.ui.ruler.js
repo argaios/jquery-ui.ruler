@@ -210,7 +210,7 @@
 
             this.element.append($tmpEl);
 
-            var px = $tmpEl.width();
+            var px = $tmpEl[0].getBoundingClientRect().width;
 
             $tmpEl.remove();
 
